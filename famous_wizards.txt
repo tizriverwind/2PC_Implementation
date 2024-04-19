@@ -1,0 +1,5 @@
+name=Albus Percival Wulfric Brian Dumbledore
+house=Gryffindor
+achievement=Defeated Grindelwald, discovered twelve uses of dragon's blood, pivotal in the defeat of Voldemort
+favoriteCandy=Lemon Drops 
+favoriteDrink=Mead
